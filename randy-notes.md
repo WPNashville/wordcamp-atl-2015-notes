@@ -25,6 +25,7 @@
 - https://make.wordpress.org/chat/
 - https://make.wordpress.org/polyglots/
 - https://make.wordpress.org/docs/
+- https://make.wordpress.org/training/
 - https://make.wordpress.org/support/
 - http://wordpress.org/support/
 - http://make.wordpress.org/accessibility/
