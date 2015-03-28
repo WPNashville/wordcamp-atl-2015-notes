@@ -43,6 +43,23 @@
 ### Josh Pollock
 - http://atlanta.wordcamp.org/2015/session/using-composer-to-increase-your-wordpress-development-powers/
 
+### Jason Swenk
+- http://atlanta.wordcamp.org/2015/session/accelerate-your-growth-stop-trading-time-for-money-and-losing-profit/
+
+1. Where are you going? Clarity
+2. Who do you server? Specialization
+3. Content. Produce valuable content that helps your ideal auddience
+4. Create a way to capture and nurture leads
+x. issue, impact, importance
+7. eliminate profit leaks
+8. streamline delivery
+9. automation
+10. strategic partnership
+
+- I missed a few, there were supposed to be 12
+- https://www.xero.com/us/
+- https://www.waveapps.com/
+
 ### Adam Silverstein
 - http://atlanta.wordcamp.org/2015/session/put-a-little-backbone-in-your-wordpress/
 
