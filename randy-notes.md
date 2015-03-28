@@ -62,6 +62,10 @@ x. issue, impact, importance
 
 ### Adam Silverstein
 - http://atlanta.wordcamp.org/2015/session/put-a-little-backbone-in-your-wordpress/
+- http://backbonejs.org/
+- http://underscorejs.org/
+- https://github.com/adamsilverstein/backbone-directory
+- https://github.com/adamsilverstein/backbone-demo
 
 ### Jamal Jackson
 - http://atlanta.wordcamp.org/2015/session/wordpress-json-api-and-you/
