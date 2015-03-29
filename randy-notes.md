@@ -69,6 +69,8 @@ x. issue, impact, importance
 
 ### Jamal Jackson
 - http://atlanta.wordcamp.org/2015/session/wordpress-json-api-and-you/
+- https://wordpress.org/plugins/json-rest-api/
+- http://wp-api.org/
 
 ### Travis Smith
 - http://atlanta.wordcamp.org/2015/session/ajaxjs/
